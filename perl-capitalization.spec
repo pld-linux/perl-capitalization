@@ -4,7 +4,7 @@
 #
 %include	/usr/lib/rpm/macros.perl
 Summary:	No capitalization on method names
-Summary(pl.UTF-8):   Brak wielkich liter w nazwach metod
+Summary(pl.UTF-8):	Brak wielkich liter w nazwach metod
 Name:		perl-capitalization
 Version:	0.03
 Release:	1

@@ -2,7 +2,6 @@
 # Conditional build
 %bcond_with	tests	# perform "make test" (requires reader)
 #
-%include	/usr/lib/rpm/macros.perl
 Summary:	No capitalization on method names
 Summary(pl.UTF-8):	Brak wielkich liter w nazwach metod
 Name:		perl-capitalization
